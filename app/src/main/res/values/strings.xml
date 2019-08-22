@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Geo App</string>
+    <string name="app_in_name">Geo App</string>
+    <string name="app_name_after">Register App</string>
+    <string name="text_bottom">Войдите в свою учетную запись</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnRegister">Зарегистрироваться</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Пароль</string>
+    <string name="name_hint">Введите имя</string>
+    <string name="phone_hint">Введите номер телефона</string>
+</resources>
